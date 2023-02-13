@@ -1,0 +1,21 @@
+{
+  "name": "sahabat",
+  "version": "1.0.0",
+  "description": "sahabat al muhajirin json server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sahabat",
+    "al",
+    "muhajirin",
+    "json",
+    "server"
+  ],
+  "author": "adi setiawan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
